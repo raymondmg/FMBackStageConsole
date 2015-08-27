@@ -1,0 +1,8 @@
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\bin\Debug\UIWindow.exe.config
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\bin\Debug\UIWindow.exe
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\bin\Debug\UIWindow.pdb
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\obj\Debug\UIWindow.WindowName.resources
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\obj\Debug\UIWindow.Properties.Resources.resources
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\obj\Debug\UIWindow.csproj.GenerateResource.Cache
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\obj\Debug\UIWindow.exe
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\UIWindow\obj\Debug\UIWindow.pdb

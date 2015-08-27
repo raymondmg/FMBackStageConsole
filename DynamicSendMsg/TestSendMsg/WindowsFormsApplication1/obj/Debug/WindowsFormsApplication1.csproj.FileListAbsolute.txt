@@ -1,0 +1,8 @@
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WindowName.resources
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WangWorkspace\FMBackStageConsole\DynamicSendMsg\TestSendMsg\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

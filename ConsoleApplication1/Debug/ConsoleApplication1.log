@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/8/24 14:49:37。
+     1>项目“D:\WangWorkspace\FMBackStageConsole\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MsClient.cpp profile.cpp USTPMDClient.cpp USTPMDHandler.cpp
+     1>cl : 命令行 warning D9030: “/Gm”与多处理不兼容；忽略 /MP 开关
+         USTPMDHandler.cpp
+     1>d:\wangworkspace\fmbackstageconsole\consoleapplication1\ustpmdhandler.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : 参见“strcpy”的声明
+         USTPMDClient.cpp
+     1>d:\wangworkspace\fmbackstageconsole\consoleapplication1\ustpmdclient.cpp(14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : 参见“strcpy”的声明
+         profile.cpp
+     1>d:\wangworkspace\fmbackstageconsole\consoleapplication1\profile.cpp(23): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(195) : 参见“strncpy”的声明
+         MsClient.cpp
+     1>d:\wangworkspace\fmbackstageconsole\consoleapplication1\msclient.cpp(23): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+         正在生成代码...
+     1>已完成生成项目“D:\WangWorkspace\FMBackStageConsole\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.92
